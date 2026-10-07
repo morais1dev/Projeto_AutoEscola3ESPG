@@ -6,13 +6,12 @@ Disciplina: **SOA e WebServices** – Prof. Carlos Eduardo Machado de Oliveira
 
 ## Integrantes
 
-| Nome | RM |
-|------|----|
-| _Nome completo do integrante 1_ | _RM00000_ |
-| _Nome completo do integrante 2_ | _RM00000_ |
-| _Nome completo do integrante 3_ | _RM00000_ |
-| _Nome completo do integrante 4_ | _RM00000_ |
-| _Nome completo do integrante 5_ | _RM00000_ |
+| Nome                            | RM         |
+|---------------------------------|------------|
+| _Gustavo Morais Ildefonso_      | _RM554972_ |
+| _Murilo Justi Rodrigues_        | _RM554512_ |
+| _Vitor Alves Titus Eskes_       | _RM555137_ |
+| _Leonardo Rocha Scarpitta_      | _RM555460_ |
 
 ## Sumário
 
